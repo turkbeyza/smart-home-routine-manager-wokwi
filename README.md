@@ -32,7 +32,4 @@ This system allows users to schedule and manually control devices like air condi
   - `diagram.json`: Wokwi wiring configuration
   - `libraries.txt`: External libraries used
 
-## 📸 Project Screenshots
-See `/screenshots` folder for images of the system running in simulation.
 
-## 📚 Project Structure
